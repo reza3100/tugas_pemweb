@@ -2,10 +2,7 @@ body > table{
     width: 100%;
 }
 * {
-    font-family: 'Muli:400,600,700,800,900', sans-serif;
-}
-.container {
-    padding: 15px 45px;
+font-family: 'Nunito', sans-serif;
 }
 
 table{
