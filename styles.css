@@ -2,7 +2,7 @@ body > table{
     width: 100%;
 }
 * {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Muli:400,600,700,800,900', sans-serif;
 }
 .container {
     padding: 15px 45px;
