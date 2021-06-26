@@ -7,10 +7,12 @@ body > table{
 
 table{
     border-collapse: collapse;
-    width: 100%;
+    
 }
 table.list{
     width:100%;
+    margin-bottom: 70%;
+    
 }
 
 td,th {
